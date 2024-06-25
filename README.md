@@ -1,0 +1,6 @@
+- 👋 Hi, my name is Dani! (@Belfingor)
+- 🌱 I’m currently learning C++ for game development + Unreal Engine in the near future
+- 💞️ I’m looking to collaborate on basic 2D games using C++ and SFML library
+- 📫 How to reach me: daniilmamonov1337@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: was competitive ballroom dancer back in the day, cool aye?
