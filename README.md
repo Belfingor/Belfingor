@@ -1,5 +1,4 @@
 - 👋 Hi, my name is Dani! (@Belfingor)
-- 🌱 I’m currently learning C++ for game development + Unreal Engine
+- 🌱 C++ Game Developer specializing in Unreal Engine.
 - 📫 How to reach me: daniilmamonov1337@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: was competitive ballroom dancer back in the day, cool aye?
